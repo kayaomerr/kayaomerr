@@ -96,11 +96,18 @@ Modern aviation weather application built for pilots and aviation students.
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:komer6088@gmail.com)
+<a href="mailto:komer6088@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="40"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/omerkaya00)
+   
+
+<a href="https://www.linkedin.com/in/omerkaya00">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" height="40"/>
+</a>
 
 </div>
+
 
 
 
