@@ -96,9 +96,9 @@ Modern aviation weather application built for pilots and aviation students.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayaomerr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayaomerr&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaomerr&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaomerr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -108,7 +108,7 @@ Modern aviation weather application built for pilots and aviation students.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kayaomerr&theme=tokyonight&hide_border=true&background=000000"/>
+<img src="https://streak-stats.demolab.com?user=kayaomerr&theme=tokyonight&hide_border=true" />
 
 </div>
 
