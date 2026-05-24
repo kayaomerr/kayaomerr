@@ -92,27 +92,17 @@ Modern aviation weather application built for pilots and aviation students.
 
 ---
 
-# GitHub Stats
-
-![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayaomerr&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaomerr&layout=compact&theme=tokyonight)
-
----
-
-# GitHub Streak
+# Contact
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kayaomerr&theme=tokyonight&hide_border=true" />
+[![Gmail](https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:komer6088@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/omerkaya00)
 
 </div>
 
----
 
-# Contact
-
-📫 [komer6088@gmail.com](mailto:komer6088@gmail.com)
 
 ---
 
