@@ -97,33 +97,14 @@ Modern aviation weather application built for pilots and aviation students.
 <div align="center">
 
 <a href="mailto:komer6088@gmail.com">
-  <img 
-    src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" 
-    height="65"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="65"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/omerkaya00">
-  <img 
-    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" 
-    height="65"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" height="65"/>
 </a>
 
 </div>
-
-   
-
-<a href="https://www.linkedin.com/in/omerkaya00">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" height="40"/>
-</a>
-
-</div>
-
-
-
 
 ---
 
