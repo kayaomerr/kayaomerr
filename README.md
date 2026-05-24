@@ -94,15 +94,9 @@ Modern aviation weather application built for pilots and aviation students.
 
 # GitHub Stats
 
-# GitHub Stats
+![Ömer's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayaomerr&show_icons=true&theme=tokyonight)
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayaomerr&show_icons=true&theme=transparent" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaomerr&layout=compact&theme=transparent" />
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayaomerr&layout=compact&theme=tokyonight)
 
 ---
 
