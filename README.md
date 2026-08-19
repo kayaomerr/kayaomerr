@@ -6,7 +6,7 @@
 
 Building modern mobile applications, backend systems and aviation technologies.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=CEAE69&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;React+Native+Developer;Full+Stack+Developer;Building+METAR+Alert+✈️;Founder+%26+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=CEAE69&center=true&vCenter=true&width=700&lines=Computer+Engineer;React+Native+Developer;Full+Stack+Developer;Building+METAR+Alert+✈️;Founder+%26+Developer" />
 
 </div>
 
